@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Type=Application
+_Name=asmaa
+_GenericName=library for linux
+_Comment=library for linux
+Exec=asma
+Icon=asmaa
+Terminal=false
+TryExec=asmaa
+Exec=asmaa
+Categories=X-Islamic-Software;GTK;
+StartupNotify=false
+
